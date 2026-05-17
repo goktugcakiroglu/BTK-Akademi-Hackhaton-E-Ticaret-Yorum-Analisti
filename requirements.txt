@@ -1,0 +1,7 @@
+streamlit
+pandas
+langchain-google-genai
+python-dotenv
+python-docx
+duckduckgo-search
+langchain-community
