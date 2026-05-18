@@ -3,5 +3,5 @@ pandas
 langchain-google-genai
 python-dotenv
 python-docx
-duckduckgo-search==5.3.1
+ddgs
 langchain-community
